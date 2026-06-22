@@ -35,3 +35,47 @@ Ve al menú **Carta Mágica** en tu panel de administrador, configura tus imáge
 
 ```text
 [carta_magica]
+
+Uso avanzado (Atributos independientes)
+Puedes renderizar múltiples stacks en la misma web con diferentes diseños sobrescribiendo las opciones por defecto:
+
+Plaintext
+[carta_magica width="250px" height="400px" img1="url-1.jpg" img2="url-2.jpg" img3="url-3.jpg"]
+🇬🇧 English
+A premium, interactive, and lightweight WordPress plugin that generates a stack of 3 magic cards with smooth 3D effects.
+
+🚀 Main Features
+Advanced 3D Effects: Smooth movements and 3D perspective when interacting with the card stack.
+
+Mouse Tilt & Drag: Cards react to mouse movement and support continuous dragging.
+
+Holographic Shine: Dynamic and elegant holographic shine effect on hover.
+
+Native Control Panel: Built-in WordPress admin interface (Settings > Carta Mágica) to set default dimensions, aura shadow color, and global images.
+
+Flexible Shortcode: Use it anywhere on your website using a simple shortcode.
+
+Optimized Performance: CSS and JS code is encapsulated and only loads in the DOM when the shortcode is actually present on the page.
+
+⚙️ Installation
+Download this repository as a .zip file.
+
+Go to your WordPress Dashboard > Plugins > Add New > Upload Plugin.
+
+Choose the .zip file and click Install Now.
+
+Activate the plugin.
+
+🛠️ How to Use
+Basic Usage
+Go to the Carta Mágica menu in your WordPress dashboard, set your favorite default images, and paste this shortcode into any page or post:
+
+Plaintext
+[carta_magica]
+Advanced Usage (Custom Attributes)
+You can render multiple stacks on the same website with different designs by overriding the default options directly in the shortcode:
+
+Plaintext
+[carta_magica width="250px" height="400px" img1="url-1.jpg" img2="url-2.jpg" img3="url-3.jpg"]
+👨‍💻 Autor / Author
+Desarrollado con pasión por / Developed with passion by NASCOR Estudio Creativo.
