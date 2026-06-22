@@ -31,10 +31,7 @@ Un plugin premium, interactivo y ligero para WordPress que genera un stack de 3 
 ### 🛠️ Cómo usarlo
 
 **Uso básico**
-Ve al menú **Carta Mágica** en tu panel de administrador, configura tus imágenes favoritas y pega este shortcode en cualquier página o entrada:
-
-```text
-[carta_magica]
+Ve al menú **Carta Mágica** en tu panel de administrador, configura tus imágenes favoritas y pega este shortcode en cualquier página o entrada: [carta_magica]
 
 Uso avanzado (Atributos independientes)
 Puedes renderizar múltiples stacks en la misma web con diferentes diseños sobrescribiendo las opciones por defecto:
